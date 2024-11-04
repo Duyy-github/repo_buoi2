@@ -4,8 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <script src="index.js"></script>
 </head>
 <body>
-    <h1>DỰ ÁN 1</h1>
+<p>headef</p>
 </body>
 </html>
