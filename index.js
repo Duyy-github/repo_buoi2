@@ -1,1 +1,3 @@
-console.log("wd19316");
+let classname = 'wd12333'
+
+console.log(classname);
